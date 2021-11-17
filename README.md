@@ -1,4 +1,4 @@
-# Hello there! <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif" width="45">
+# Hello there! <img src="/src/Wavy%20Hand%20GIF%201.gif" width="45">
 
 <img src="/src/Aveden Oltrax (Banner).png">
 
