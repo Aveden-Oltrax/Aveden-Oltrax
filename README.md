@@ -1,6 +1,6 @@
 # Hello there! <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif" width="45">
 
-<img src="/Aveden Oltrax (Banner).png">
+<img src="/src/Aveden Oltrax (Banner).png">
 
 ## 👨🏻‍💻 About 
 I am Akshay Patil (aka Aveden Oltrax), from Pune, India 🇮🇳. A Computer Engineering Undergrad and a Graphic Design aficionado.
