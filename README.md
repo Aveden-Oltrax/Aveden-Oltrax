@@ -3,7 +3,7 @@
 <img src="/Aveden Oltrax (Banner).png">
 
 ## 👨🏻‍💻 About 
-I am Akshay Patil (aka Aveden Oltrax), from Pune, India 🇮🇳. An Computer Engineering Undergrad and a Graphic Design aficionado.
+I am Akshay Patil (aka Aveden Oltrax), from Pune, India 🇮🇳. A Computer Engineering Undergrad and a Graphic Design aficionado.
 
 ##
 
